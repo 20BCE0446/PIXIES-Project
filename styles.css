@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Kavivanar');
+
+*{margin:0;
+padding:0;
+user-select: none;
+
+}
+body{font-family: 'Kavivanar',cursive;
+background: url(https://drshinjinipande.com/wp-content/uploads/2018/04/slider-doctor-fullscreen-03.jpg);}
+.wrapper{
+	width:100%;
+	max-width:680px;
+	margin: 100px auto 0;
+	padding:20px;
+	box-sizing: border-box;
+}
+.content{text-align: center;}
+.content h1{letter-spacing: 1px;}
+.form{width:100%;
+margin: 25px 0;
+}
+.top-form,
+.middle-form,
+.bottom-form{width:100%;
+min-height:65px;
+margin:10px 0;}
+.form input[type="text"],
+.form textarea{padding:15px 5px;
+box-sizing:border-box;
+width:100%;
+border:2px solid #fff;}@import url('https://fonts.googleapis.com/css2?family=Kavivanar');
+
+*{margin:0;
+padding:0;
+user-select: none;
+
+}
+body{font-family: 'Kavivanar',cursive;
+background: #c4e0e5;}
+.wrapper{
+	width:100%;
+	max-width:680px;
+	margin: 100px auto 0;
+	padding:20px;
+	box-sizing: border-box;
+}
+.content{text-align: center;}
+.content h1{letter-spacing: 1px;}
+.form{width:100%;
+margin: 25px 0;
+}
+.top-form,
+.middle-form,
+.bottom-form{width:100%;
+min-height:65px;
+margin:10px 0;}
+.form input[type="text"],
+.form textarea{padding:15px 5px;
+box-sizing:border-box;
+width:100%;
+border:2px solid #fff;}
+.form input[type="email"],
+.form textarea{padding:15px 5px;
+box-sizing:border-box;
+width:100%;
+border:2px solid #fff;}
+.form input[type="password"],
+.form textarea{padding:15px 5px;
+box-sizing:border-box;
+width:100%;
+border:2px solid #fff;}
+.form input[type="date"],
+.form textarea{padding:15px 5px;
+box-sizing:border-box;
+width:100%;
+border:2px solid #fff;}
+.form input[type="radio"],
+.form textarea{padding:25px 5px;
+box-sizing:border-box;
+width:50%;
+border:2px solid #fff;}
+
+.form label,
+.form textarea{padding:15px 5px;
+box-sizing:border-box;
+width:100%;
+border:2px solid #fff;}
+
