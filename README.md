@@ -1,2 +1,2 @@
-# Hackulus-Project
+# PIXIES-Project
 Healthcare with AI Project
