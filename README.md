@@ -1,2 +1,2 @@
 # Hackulus-Project
-Hackulus(SIAM VIT) Hackathon Project
+Healthcare with AI Project
